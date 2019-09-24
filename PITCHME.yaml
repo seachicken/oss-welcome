@@ -8,8 +8,8 @@
 theme : template
 
 theme-background : [ "#FFF" ]
-theme-headline   : [ "Raleway", "#5289F7", "none" ]
-theme-byline     : [ "Raleway", "#111111", "none" ]
+theme-headline   : [ "Ubuntu", "#1E90FF", "none" ]
+theme-byline     : [ "Ubuntu", "#1E90FF", "none" ]
 theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
 theme-links      : [ "#5289F7", "#5254F7" ]
 theme-code       : [ "Source Code Pro" ]
@@ -32,8 +32,8 @@ theme-override: assets/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/logo.png
-logo-position : top-left
+#logo : assets/img/logo.png
+#logo-position : top-left
 
 #
 # Layout Setting
@@ -45,7 +45,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+#footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 
 #
 # Published Setting
